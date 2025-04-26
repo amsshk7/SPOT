@@ -1,4 +1,3 @@
-"""ZCrypto bot helpers."""
 from decimal import Decimal
 
 
